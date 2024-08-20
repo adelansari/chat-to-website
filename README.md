@@ -3,6 +3,13 @@
 Chatbot with RAGChat & Next.js 14 that can interact with any link you place at the end of the base url. It uses Redis, a vector database with BAAI/bge-large-en-v1.5 from Hugging Face, and Qstash for messaging in a serverless architecture. All of these are available in Upstash. It also uses the Upstash rag-chat SDK.
 
 ## Demo
+
+You can test the app here:
+https://chat-to-website-bice.vercel.app/
+
+Example usage:
+https://chat-to-website-bice.vercel.app/https:/en.wikipedia.org/wiki/Sony_Xperia_1_IV
+
 ![Example01](public/Example01.png)
 ![Example02](public/Example02.png)
 
